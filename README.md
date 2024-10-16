@@ -1,4 +1,4 @@
-# **secure-sensor-hub**
+# **ESP32 Secure Sensor Hub**
 
 A lightweight ESP32-based system for securely collecting and transmitting temperature and humidity data over HTTPS. Designed with FOTA (Firmware Over-The-Air) support, the platform ensures reliable and encrypted data transmission to cloud services or databases like InfluxDB, while also providing secure and efficient firmware updates.
 
